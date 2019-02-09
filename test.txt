@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is D84E-FF53
-
- Directory of C:\Users\Santhi\Desktop\Myproject
-
-09-02-2019  06:15    <DIR>          .
-09-02-2019  06:15    <DIR>          ..
-09-02-2019  06:15                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  555,365,629,952 bytes free
+this is my first git lab
